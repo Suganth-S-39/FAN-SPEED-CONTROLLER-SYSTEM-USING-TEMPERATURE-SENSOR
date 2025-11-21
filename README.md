@@ -16,7 +16,7 @@ To measure the Temperature using DHT11/DHT22/TMP36  sensor with Arduino UNO Boar
 
 <img width="953" height="634" alt="image" src="https://github.com/user-attachments/assets/06acf4e5-92bb-4bd6-b426-6b7482cf2d03" />
 
-# Procedure // Modify the procedure based on your circuit
+# Procedure
 
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open Tinkercad in your web browser and log in to your account.
